@@ -7,3 +7,9 @@ To use our emotion Detection model
 3. Run the gui.py file
 4. upload the image in the gui
 5. click on the Detect button to detect the emotion.
+
+   **For Example**
+   1) Open Anaconda Prompt
+   2) Conda Activate emotion_detection_Course
+   3) cd Downloads/Emotion_Detection
+   4) python gui.py
