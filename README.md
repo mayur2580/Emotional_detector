@@ -10,6 +10,6 @@ To use our emotion Detection model
 
    **For Example**
    1) Open Anaconda Prompt
-   2) Conda Activate emotion_detection_Course
+   2) Conda Activate emotion_detection_course
    3) cd Downloads/Emotion_Detection
    4) python gui.py
